@@ -2,11 +2,11 @@
 <h3 align="center">I'm Currently a College Student, Majoring in Computer Science at Hasanuddin University.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/mrpipsterr" target="blank"><img src="https://img.shields.io/twitter/follow/mrpipsterr?logo=twitter&style=for-the-badge" alt="mrpipsterr" /></a> </p>
-
 - 🌱 I'm currently just learning **Front-End Developing**
 
-- 👨‍💻 You can check out my web (it's not perfect yet, but you'll get the idea) [https://mrpipsterr.github.io/home/](https://mrpipsterr.github.io/home/)
+- 👨‍💻 You can check out my web (it's still messed up, but you'll get the idea) [https://mrpipsterr.github.io/home/](https://mrpipsterr.github.io/home/)
+
+- 📫 How to reach me **farrelpalinggi@gmail.com**
 
 - ⚡ Fun fact **I Play Classical**
 
@@ -20,6 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpipsterr&show_icons=true&locale=en" alt="mrpipsterr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpipsterr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mrpipsterr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpipsterr&" alt="mrpipsterr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpipsterr&show_icons=true&theme=tokyonight&locale=en" alt="mrpipsterr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpipsterr&theme=dark" alt="mrpipsterr" /></p>
+
+
