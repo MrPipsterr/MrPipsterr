@@ -23,5 +23,5 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpipsterr&theme=tokyonight" alt="mrpipsterr" />
     <img src="https://github-readme-stats.vercel.app/api?username=mrpipsterr&show_icons=true&theme=tokyonight&locale=en" alt="mrpipsterr" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpipsterr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mrpipsterr" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpipsterr&langs_count=8&show_icons=true&theme=tokyonight&locale=en&layout=pie" alt="mrpipsterr" />
 </p>
