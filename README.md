@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **farrelpalinggi@gmail.com**
 
-- ⚡ Fun fact **I Play Classical**
+- ⚡ Fun fact: **I Play Classical**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
