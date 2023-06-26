@@ -1,4 +1,3 @@
-<img align="center" src="https://media.giphy.com/media/3d3wqdssmTf4I9eJGP/giphy.gif">
 <h1 align="center">Hi, I'm Farrel</h1>
 <h3 align="center">I'm Currently a College Student, Majoring in Computer Science at Hasanuddin University.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
