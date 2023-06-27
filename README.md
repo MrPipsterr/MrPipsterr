@@ -2,7 +2,7 @@
 <h3 align="center">I'm Currently a College Student, Majoring in Computer Science at Hasanuddin University.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-- 🌱 I'm currently just learning **Front-End Development**
+- 🌱 just learning **Front-End Development**
 
 - 👨‍💻 You can check out my web (it's still messed up, but you'll get the idea) [https://mrpipsterr.github.io/home/](https://mrpipsterr.github.io/home/)
 
