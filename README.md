@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Farrel</h1>
 <h3 align="center">I'm Currently a College Student, Majoring in Computer Science at Hasanuddin University.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpipsterr&label=Profile%20views&color=0e75b6&style=flat" alt="mrpipsterr" /> </p>
 
 - 🌱 just learning **Front-End Development**
 
