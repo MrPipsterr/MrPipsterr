@@ -4,7 +4,7 @@
 
 - 🌱 just learning **Front-End Development**
 
-- 👨‍💻 You can check out my web (it's still messed up, but you'll get the idea) [https://mrpipsterr.github.io/home/](https://mrpipsterr.github.io/home/)
+- 👨‍💻 You can check out my web (it's still messed up, but you'll get the idea) [https://mrpipsterr.github.io/](https://mrpipsterr.github.io/)
 
 - 📫 How to reach me **farrelpalinggi@gmail.com**
 
